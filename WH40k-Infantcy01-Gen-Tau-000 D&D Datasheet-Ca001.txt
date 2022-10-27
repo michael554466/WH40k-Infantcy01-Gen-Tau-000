@@ -4,3 +4,12 @@
 
 <Health>
 
+<Ability01>
+
+<Ability02>
+
+<Ability03>
+
+<StatDamage>
+
+<StatRange>
