@@ -2,7 +2,7 @@
 <Class>
 <ID>
 
-<Health>
+<Health>	10
 
 <Ability01>
 
