@@ -1,8 +1,8 @@
 <Name>		Gen-Tau
-<Class>
-<ID>
+<Class>		Fast-Attack
+<ID>		Pathinder-Team#01
 
-<Health>	10
+<Health>	100
 
 <Ability01>
 
